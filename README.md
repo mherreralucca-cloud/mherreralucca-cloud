@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 👋 Soy Lucca</h1>
-<h3 align="center">Técnico de Redes | Administrador Linux orientado a Ciberseguridad </h3>
+<h3 align="center">Técnico en Redes de Datos y Telecomunicaciones | Administrador Linux orientado a Ciberseguridad </h3>
 
 ---
 
