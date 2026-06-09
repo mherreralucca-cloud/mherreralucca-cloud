@@ -47,7 +47,11 @@
 
 ## 📫 Contacto
 
-<p align="center">
+<p align="left">
+  <a href="mailto:tu-correo@ejemplo.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="32" height="32" alt="Email" title="Email" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/lucca-martinenghi-it" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
   </a>
