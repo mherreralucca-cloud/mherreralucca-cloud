@@ -5,10 +5,8 @@
 
 ## Sobre Mí
 
-Apasionado por la infraestructura, el rendimiento y la seguridad. Actualmente enfocado en construir bases sólidas en administración de sistemas operativos libres y arquitecturas de red.
-
 * 📍 **Ubicación:** Argentina
-* 🎓 **Formación:** Licenciatura en Redes | Certificacion LPI y Linux College en Administración de Redes Linux y Ciberseguridad.
+* 🎓 **Actualmente estudiando:** Licenciatura en Redes | Certificacion LPI y Linux College en Administración de Redes Linux y Ciberseguridad.
 * 👥 **Disponibilidad:** Buscando sumarme a proyectos desafiantes de infraestructura, soporte de redes o seguridad para mi primera experiencia laboral formal en el sector IT.
 * 💬 **Pregúntame sobre:** Administración de servidores Linux, infraestructura de redes, y auditoría en ciberseguridad.
 
