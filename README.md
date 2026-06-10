@@ -1,4 +1,4 @@
-<h1 align="center">¡Hello there! 👋 Soy Lucca <img src="https://github.com/user-attachments/assets/42c77dcd-a8d6-4893-ae87-07003bc55b07"  alt="mando" width="70"  />
+<h1 align="center">¡Hello there! 👋 Soy Lucca <img src="https://github.com/user-attachments/assets/42c77dcd-a8d6-4893-ae87-07003bc55b07"  alt="mando" width="80"  />
 <h3 align="center">Técnico en Redes de Datos y Telecomunicaciones | Administrador Linux orientado a Ciberseguridad </h3>
 
 ---
@@ -7,16 +7,14 @@
 
 * 📍 **Ubicación:** Argentina
 * 🎓 **Actualmente estudiando:** Licenciatura en Redes | Certificacion LPI y Linux College en Administración de Redes Linux y Ciberseguridad.
-* 👥 **Disponibilidad:** Buscando sumarme a proyectos desafiantes de infraestructura, soporte de redes o seguridad para mi primera experiencia laboral formal en el sector IT.
 * 💬 **Pregúntame sobre:** Administración de servidores Linux, infraestructura de redes, y auditoría en ciberseguridad.
-
-~ Busco experiencia profesional en áreas relacionadas con:
-
+* 👥 **Disponibilidad:** Buscando sumarme a proyectos para mi primera experiencia laboral formal en el sector IT en áreas relacionadas con:
 - Soporte IT
 - Infraestructura
 - Redes
 - Linux
 - Administración de Sistemas
+
 ---
 
 ## Tecnologías y Herramientas
