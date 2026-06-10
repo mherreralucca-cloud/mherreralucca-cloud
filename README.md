@@ -1,4 +1,4 @@
-<h1 align="center">¡Hello there! 👋 Soy Lucca <img src="https://github.com/user-attachments/assets/42c77dcd-a8d6-4893-ae87-07003bc55b07"  alt="mando" width="90"  />
+<h1 align="center">¡Hello there! Soy Lucca <img src="https://github.com/user-attachments/assets/42c77dcd-a8d6-4893-ae87-07003bc55b07"  alt="mando" width="90"  />
 <h3 align="center">Técnico en Redes de Datos y Telecomunicaciones | Administrador Linux orientado a Ciberseguridad </h3>
 
 ---
