@@ -59,3 +59,6 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
   </a>
 </p>
+
+
+<img width="500" height="249" alt="yoda" src="https://github.com/user-attachments/assets/095f9234-5a4a-447c-817e-9d212b19d932" />
