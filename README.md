@@ -36,7 +36,6 @@
 ---
 
 ## 📊 Actividad en GitHub
-![Lucca's github stats](https://github-vercel-deployment-seven.vercel.app/api?username=Aurorp1g&show_icons=true&theme=github_dark_dimmed)
 <p align="center">
   <a href="http://www.github.com/mherreralucca-cloud">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mherreralucca-cloud&stroke=ffffff&background=181824&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Estadísticas de GitHub" />
