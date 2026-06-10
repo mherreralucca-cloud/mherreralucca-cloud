@@ -40,12 +40,6 @@
 
 ---
 
-## 📊 Actividad en GitHub
-<p align="center">
-  <a href="http://www.github.com/mherreralucca-cloud">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mherreralucca-cloud&stroke=ffffff&background=181824&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Estadísticas de GitHub" />
-  </a>
-</p>
 ### Github  <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
 ![Lucca's github stats](https://github-vercel-deployment-seven.vercel.app/api?username=mherreralucca-cloud&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
 
