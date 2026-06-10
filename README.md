@@ -10,6 +10,13 @@
 * 👥 **Disponibilidad:** Buscando sumarme a proyectos desafiantes de infraestructura, soporte de redes o seguridad para mi primera experiencia laboral formal en el sector IT.
 * 💬 **Pregúntame sobre:** Administración de servidores Linux, infraestructura de redes, y auditoría en ciberseguridad.
 
+~ Busco experiencia profesional en áreas relacionadas con:
+
+- Soporte IT
+- Infraestructura
+- Redes
+- Linux
+- Administración de Sistemas
 ---
 
 ## Tecnologías y Herramientas
@@ -59,6 +66,6 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
   </a>
 </p>
-
+---
 
 <h1 align="center"> <img width="500" height="249" alt="yoda" src="https://github.com/user-attachments/assets/095f9234-5a4a-447c-817e-9d212b19d932" />
