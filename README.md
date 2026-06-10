@@ -43,6 +43,8 @@
 ### Github  <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
 ![Lucca's github stats](https://github-vercel-deployment-seven.vercel.app/api?username=mherreralucca-cloud&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
 
+### Gráfico de Actividad <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
+[![Lucca's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mherreralucca-cloud&theme=tokyo-night)](https://github.com/mherreralucca-cloud/github-readme-activity-graph)
 ---
 
 ## 📫 Contacto
