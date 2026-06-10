@@ -61,4 +61,4 @@
 </p>
 
 
-<img width="500" height="249" alt="yoda" src="https://github.com/user-attachments/assets/095f9234-5a4a-447c-817e-9d212b19d932" />
+<h1 align="center"> <img width="500" height="249" alt="yoda" src="https://github.com/user-attachments/assets/095f9234-5a4a-447c-817e-9d212b19d932" />
