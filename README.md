@@ -8,8 +8,7 @@
 * 📍 **Ubicación:** Argentina
 * 🎓 **Actualmente estudiando:** Licenciatura en Redes | Certificacion LPI y Linux College en Administración de Redes Linux y Ciberseguridad.
 * 💬 **Pregúntame sobre:** Administración de servidores Linux, infraestructura de redes, y auditoría en ciberseguridad.
-* 👥 **Disponibilidad:** Buscando sumarme a proyectos para mi primera experiencia laboral formal en el sector IT en áreas relacionadas con:
-- Soporte IT
+* 👥 **Disponibilidad:** Buscando oportunidades para sumar a mi experiencia en el sector IT en áreas relacionadas con:
 - Infraestructura
 - Redes
 - Linux
