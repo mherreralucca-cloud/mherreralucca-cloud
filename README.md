@@ -36,7 +36,9 @@
 ## 📂 Proyectos Destacados
 
 **[Portafolio Redes](https://github.com/mherreralucca-cloud/mi_portafolio)**
+
 **[Portafolio CiberSec](https://github.com/mherreralucca-cloud/Portafolio_CiberSec)**
+
 **[diplomado-utn-linux-cheatsheet](https://github.com/mherreralucca-cloud/Cheat-sheet-sobre-Linux-LPI-)**
 ---
 
