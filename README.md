@@ -35,8 +35,9 @@
 
 ## 📂 Proyectos Destacados
 
-**[diplomado-utn-linux-cheatsheet](https://github.com/mherreralucca-cloud/Cheat-sheet-sobre-Linux-LPI-)**: Base de conocimiento público y "Cheat Sheets" de auditoría, manejo de archivos, hardening y procesos en entornos Linux, basado en el estándar de LPI.
-
+**[Portafolio Redes](https://github.com/mherreralucca-cloud/mi_portafolio)**
+**[Portafolio CiberSec](https://github.com/mherreralucca-cloud/Portafolio_CiberSec)**
+**[diplomado-utn-linux-cheatsheet](https://github.com/mherreralucca-cloud/Cheat-sheet-sobre-Linux-LPI-)**
 ---
 
 ### Github  <picture style="margin-right: 10px;"><img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Statistics.gif" width="30" alt="Statistics"></picture>
