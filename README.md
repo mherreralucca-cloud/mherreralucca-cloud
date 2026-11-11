@@ -54,7 +54,7 @@
 ## 📫 Contacto
 
 <p align="left">
-  <a href="mailto:tu-correo@ejemplo.com" target="_blank">
+  <a href="mailto:mherreralucca@proton.me" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="32" height="32" alt="Email" title="Email" />
   </a>
   &nbsp;&nbsp;
